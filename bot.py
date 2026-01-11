@@ -30,7 +30,7 @@ def load_data():
     return {}
 
 # --- Config ---
-TOKEN = '8592510849:AAHxDecwpayPHUZ-PpzCnfpgj_9lwgBlHz0' 
+TOKEN = '8592510849:AAFGuoB8NXEIkqGGtLxwx2AcmQdppX9xdHU' 
 all_users = load_data()
 
 def get_user_data(user_id):
