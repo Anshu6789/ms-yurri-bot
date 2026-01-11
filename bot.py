@@ -22,7 +22,7 @@ def keep_alive():
 
 # --- Config & Storage ---
 # Yahan apna asli token quotes ke andar dalein
-TOKEN = '8592510849:AAEqXaB2cI_RebRLKhFLqmIrQWPvoMwKl5o'
+TOKEN = '8592510849:AAGQG7uVkHqKWaWseh10SuEWIKU5wOwNYVk'
 
 admin_data = {
     "state": None,
