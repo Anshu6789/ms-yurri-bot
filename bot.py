@@ -35,7 +35,7 @@ def load_data():
     }
 
 # --- Config ---
-TOKEN = 'YOUR_ACTUAL_TOKEN_HERE'
+TOKEN = '8592510849:AAGQG7uVkHqKWaWseh10SuEWIKU5wOwNYVk'
 admin_data = load_data()
 
 # --- Functions ---
